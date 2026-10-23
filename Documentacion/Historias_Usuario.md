@@ -28,7 +28,7 @@ Como responsable del sector ganadero, quiero recibir alertas cuando el stock alc
 
 ## HU-03 - Estadísticas de ventas
 
-Como propietario del negocio, quiero consultar estadísticas de ventas, para tomar mejores decisiones sobre producción, abastecimiento y comercialización.
+Como propietarios del negocio, queremoos consultar estadísticas de ventas, para tomar mejores decisiones sobre producción, abastecimiento y comercialización.
 
 ### Criterios de aceptación
 
